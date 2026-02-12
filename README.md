@@ -3,7 +3,7 @@ search.py from my Coaster-Credit-Counter repository is my simplified, command-li
 There are a handful of optimizations in search.py and on Triple C to ensure desired results are produced; however, the fixes are not all-encompassing.  When executed, search.py prompts the user for a ride and park name, and at least one must be specified.  Any relevant information about the specified roller coaster(s) will then be reported.  Beyond this, the Triple C website has the exclusive ability to cache roller coasters and view the pages of other users.
 
 Accessing Triple C:  
-    Site Link: https://triple-c-official.onrender.com
+    Site Link: www.tripleccoasters.com
 
 If you are not interested in creating a personal account, there is a public demo account that you are free to use:  
     Email: tripleccoasters@demo.com  
